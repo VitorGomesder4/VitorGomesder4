@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VitorGomesder4
-- 👀 I’m interested in tech overall
-- 🌱 I’m currently learning Software engineering
+- 👀 I’m interested in Software engineering
+- 🌱 I’m currently learning Web development
 - 📫 How to reach me: vitor.araujo.derreteman4@gmail.com
 
 <!---
