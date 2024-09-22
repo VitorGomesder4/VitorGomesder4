@@ -2,6 +2,8 @@
 - 👀 I’m interested in Software engineering
 - 🌱 I’m currently learning Web development
 - 📫 How to reach me: vitor.araujo.derreteman4@gmail.com
+- 📫 How to reach me: https://github.com/VitorGomesder4
+- 📫 How to reach me: https://www.linkedin.com/in/vitorgomesdev/
 
 <!---
 VitorGomesder4/VitorGomesder4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
